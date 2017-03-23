@@ -10,7 +10,7 @@ cd wordpress/
 docker build -t mennamohammed/downloader .
 
 cd $z
-cd php-fpm/
+cd phpfpm/
 docker build -t mennamohammed/phpfpm .
 
 cd $z
